@@ -1,0 +1,15 @@
+* {
+	align-content: center;
+}
+.CriticalDetails{
+	text-align: center !important;
+	border-bottom-color: skyblue;
+	border-bottom-style: dashed;
+	border-bottom-width: 100%;
+}
+.wrapper{
+	margin: 4%;
+}
+.subexperience, .subskills, .subcertifications, .subpersonal-detail, .subeducation{
+	margin-left: 8% !important;
+}
