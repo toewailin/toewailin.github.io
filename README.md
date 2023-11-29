@@ -41,13 +41,12 @@ Explore some of my noteworthy projects, experiments, and code snippets across di
 - Received the TU-INFO award for the 1st project at Technology University (Monywa) in 2017.
 - Achieved MCPA (Myanmar Computer Professionals Association) in 2017 through the QUIZ program.
 
-
 ## Blog and Articles
 
 Explore my thoughts and insights on web development through my blog and articles:
 
-- [Blog Post 1](#) - Title and brief description.
-- [Blog Post 2](#) - Title and brief description.
+- [နည်းပညာတက္ကသိုလ် -မုံရွာ](https://toewailin.blogspot.com/2015/10/blog-post.html) - နည်းပညာတက္ကသိုလ် -မုံရွာ
+- [Coding Chronicles: A Developer's Journey! 🚀](https://toewailin.blogspot.com/2023/11/welcome-to-coding-chronicles-developers.html) - Coding Chronicles: A Developer's Journey.
 
 ## Contributions
 
