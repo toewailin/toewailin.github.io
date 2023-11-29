@@ -1,7 +1,6 @@
 * {
-    text-align: center;
+	align-content: center;
 }
-
 .CriticalDetails{
 	text-align: center !important;
 	border-bottom-color: skyblue;
