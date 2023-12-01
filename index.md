@@ -67,6 +67,6 @@ Outside of coding, I enjoy reading, playing sepak takraw, and traveling to explo
 
 - **GitHub:** [github.com/toewailin](https://github.com/toewailin)
 - **LinkedIn:** [linkedin.com/in/toewailin](https://www.linkedin.com/in/toewailin/)
-- **Portfolio:** [toewailin.github.io](https://toewailin.github.io/)
+<!-- - **Portfolio:** [toewailin.github.io](https://toewailin.github.io/) -->
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect. Happy coding! 🚀

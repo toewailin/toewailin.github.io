@@ -6,6 +6,6 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
-  zip_url: https://github.com/toewailin/toewailin/raw/main/download.zip
+  zip_url: https://github.com/toewailin/toewailin.github.io/raw/main/download.zip
   another_url: another value
-  repository_url: https://github.com/toewailin
+  repository_url: https://github.com/toewailin/toewailin.github.io
